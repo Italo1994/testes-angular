@@ -4,4 +4,6 @@ import { Component } from "@angular/core";
   selector: "app-course-list",
   templateUrl: "./course-list.component.html"
 })
-export class CourseListComponent {}
+export class CourseListComponent {
+  //course: Course[] = [];
+}
